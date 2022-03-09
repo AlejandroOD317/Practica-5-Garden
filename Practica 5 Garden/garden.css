@@ -1,0 +1,37 @@
+header{
+    border-bottom: solid green 5px;
+    height: 160px;
+}
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+#diagnos{
+    text-decoration: underline ;
+    color: blueviolet;
+}
+#glosary{
+    text-decoration: underline;
+    color: blueviolet;
+}
+#imagen{
+    width: 150px;
+    height: 150px;
+}
+
+#cajaimagen{
+    float: left;
+}
+
+#cajatexto{
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+
+}
+#Linea2{
+    border-bottom: solid green 5px;
+    height: 160px;
+}
